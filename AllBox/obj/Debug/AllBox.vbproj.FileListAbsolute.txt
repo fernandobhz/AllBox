@@ -1,0 +1,9 @@
+G:\fernandobhz\AllBox\AllBox\bin\Debug\AllBoxProject.exe
+G:\fernandobhz\AllBox\AllBox\bin\Debug\AllBoxProject.pdb
+G:\fernandobhz\AllBox\AllBox\bin\Debug\AllBoxProject.xml
+G:\fernandobhz\AllBox\AllBox\obj\Debug\AllBoxProject.Resources.resources
+G:\fernandobhz\AllBox\AllBox\obj\Debug\AllBox.vbproj.GenerateResource.Cache
+G:\fernandobhz\AllBox\AllBox\obj\Debug\AllBoxProject.exe
+G:\fernandobhz\AllBox\AllBox\obj\Debug\AllBoxProject.xml
+G:\fernandobhz\AllBox\AllBox\obj\Debug\AllBoxProject.pdb
+G:\fernandobhz\AllBox\AllBox\obj\Debug\AllBoxProject.Form1.resources
